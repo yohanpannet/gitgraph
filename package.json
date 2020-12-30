@@ -1,0 +1,18 @@
+{
+  "name": "gitgraph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@gitgraph/js": "^1.3.5"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
